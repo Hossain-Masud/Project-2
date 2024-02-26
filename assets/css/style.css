@@ -27,7 +27,7 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: space-between;
-} 
+}
 
 input {
     background-color: rgba(52, 73, 94, 0.5);
