@@ -1,7 +1,7 @@
 # Simple Calculator with Html, Css and JavaScript
-[![Simple Javascript Calculator](https://raw.githubusercontent.com/harsh98trivedi/Simple-JavaScript-Calculator/master/images/meta.jpg)](https://harsh98trivedi.github.io/Simple-JavaScript-Calculator)
+[![Simple Javascript Calculator](https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/meta.jpg)](https://harsh98trivedi.github.io/Simple-JavaScript-Calculator)
 
-A simple JavaScript Calculator made by [Harsh Trivedi](https://harsh98trivedi.github.io).[ffdfd]
+A simple JavaScript Calculator made by [Hossain Masud](https://hossain-masud.github.io/Profile/).
 
 ## Overview
 
