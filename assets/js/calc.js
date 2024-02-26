@@ -1,5 +1,5 @@
 console.log(
-  "Javascript Calculator Made by Harsh Trivedi\nhttps://harsh98trivedi.github.io"
+  "Javascript Calculator Made by Hossain Masud\nhttps://hossain-masud.github.io/Profile/"
 );
 
 let flag = 0;
