@@ -1,7 +1,7 @@
 # Simple Calculator Project.
 [![Simple Javascript Calculator](https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/meta.jpg)](https://hossain-masud.github.io/Project-2/)
 
-A simple JavaScript Calculator made by [Hossain Masud](https://hossain-masud.github.io/Profile/).
+A simple JavaScript Calculator project-2 made by [Hossain Masud](https://hossain-masud.github.io/Profile/).
 
 ## Overview
 
