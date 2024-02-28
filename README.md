@@ -1,5 +1,5 @@
 # Simple Calculator Project by HTML,CSS & JavaScript
-[!(https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/meta.jpg)]
+[!Simple Calculator(https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/meta.jpg)](https://hossain-masud.github.io/Project-2/)
 
 A simple JavaScript Calculator project-2 by [Hossain Masud](https://hossain-masud.github.io/Profile/)
 
