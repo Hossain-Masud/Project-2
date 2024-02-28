@@ -11,8 +11,8 @@ The Simple JavaScript Calculator is a straightforward web-based calculator built
 
 ## Usage & Function
 
-You can access the Simple Calculator by visiting the following link [Toggle Change](https://hossain-masud.github.io/Project-2/) and you can enjoy to change the color by toggle slide.
-Simply enter your mathematical expressions and use the calculator's features to perform calculations with ease.[![calculator](https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/meta.jpg)](https://hossain-masud.github.io/Project-2/)
+You can access the Simple Calculator by visiting the following link [Change Color](https://hossain-masud.github.io/Project-2/) and you can enjoy to change the color by toggle slide.
+Simply enter your mathematical expressions and use the calculator's features to perform calculations with ease.[![calculator](https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/color.png)](https://hossain-masud.github.io/Project-2/)
 
 ## Contributors
 
