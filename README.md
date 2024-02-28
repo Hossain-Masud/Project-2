@@ -24,6 +24,6 @@ This Project has been tested by [W3C Validator](https://validator.w3.org/nu/?doc
 ## Credit & Thanks
 
 I woud like to Thank You [Harash Trevedi](https://harsh98trivedi.github.io/) and his excellent work to understand and help to do this project.
-I also, would like to Thank You [Code Institute,Ireland](https://github.com/Code-Institute-Solutions/love-maths-2.0-sourcecode/tree/master) to show and teach this excllent Javascript module with Love Math Project to understand the basic and some advance concept on JavaScript.
+I also, would like to Thanks [Code Institute,Ireland](https://github.com/Code-Institute-Solutions/love-maths-2.0-sourcecode/tree/master) to show and teach this excllent Javascript module with Love Math Project to understand the basic and some advance concept on JavaScript.
 
 
