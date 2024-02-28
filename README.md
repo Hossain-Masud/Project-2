@@ -15,9 +15,9 @@ You can access the Simple Calculator by visiting the following link [Change Colo
 Simply enter your mathematical expressions and use the calculator's features to perform calculations with ease.[![color](https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/color.png)](https://hossain-masud.github.io/Project-2/)
 Some Function [![function](https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/Function.png)](https://hossain-masud.github.io/Project-2/) and Answer [![answer](https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/answer.png)](https://hossain-masud.github.io/Project-2/)
 
-## Contributors
+## Deployment
 
-Contributors are always welcome to make contributions to this project and help to improve it. 
+The site was deployed to GitHub pages. The steps to deploy are as follows: [Deploy](https://hossain-masud.github.io/Profile/)
 
 ## Tested
 
