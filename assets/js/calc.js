@@ -50,8 +50,7 @@ for (item of buttons) {
       }
       screenValue += buttonText;
       screen.value = screenValue;
-    }
-    else if (isNumber(buttonText)) {
+    } else if (isNumber(buttonText)) {
       if (flag == 1) {
         screenValue = buttonText;
         flag = 0;
