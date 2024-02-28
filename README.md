@@ -19,6 +19,10 @@ Contributors are always welcome to make contributions to this project and help i
 
 ## Tested
 
-We hope you find this Simple JavaScript Calculator useful and enjoy using it for your calculations. If you have any questions or suggestions, please don't hesitate to reach out to [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhossain-masud.github.io%2FProject-2%2F).
+This Project has been tested by [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhossain-masud.github.io%2FProject-2%2F) and so far no error or warning.
+
+## Credit & Thanks
+
+I woud like to Thank you [Harash Trevedi](https://harsh98trivedi.github.io/) and his excellent work to understand and help to do this project.
 
 
