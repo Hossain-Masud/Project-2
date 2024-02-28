@@ -1,7 +1,7 @@
 /*Project Idea taken from https://harsh98trivedi.github.io
 Has been Modified to re-use*/
 console.log(
-  "Javascript Calculator Made by Harsh Trivedi\nhttps://harsh98trivedi.github.io"
+  "Simple Calculator Made by Hossain\nhttps://hossain-masud.github.io/Profile/"
 );
 
 let flag = 0;
