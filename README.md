@@ -15,7 +15,7 @@ Simply enter your mathematical expressions and use the calculator's features to 
 
 ## Contributors
 
-Contributors are always welcome to make contributions to this project and help improve it. 
+Contributors are always welcome to make contributions to this project and help to improve it. 
 
 ## Tested
 
