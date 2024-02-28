@@ -1,12 +1,12 @@
 # Simple Calculator Project by HTML,CSS & JavaScript
-[![](https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/meta.jpg)](https://hossain-masud.github.io/Project-2/)
+[![Simple calculator](https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/meta.jpg)](https://hossain-masud.github.io/Project-2/)
 
 A simple JavaScript Calculator project-2 by [Hossain Masud](https://hossain-masud.github.io/Profile/)
 
 ## Overview
 
 The Simple JavaScript Calculator is a straightforward web-based calculator built using JavaScript. It provides basic arithmetic operations to help users perform calculations quickly and efficiently.
-[![Calculator](https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/Calculator.png)](https://hossain-masud.github.io/Project-2/)
+[![Calculator](https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/Calculator.png)]()
 
 
 ## Usage With Toggele change
