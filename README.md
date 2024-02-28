@@ -5,7 +5,7 @@ A simple JavaScript Calculator project-2 by [Hossain Masud](https://hossain-masu
 
 ## Overview
 
-The Simple JavaScript Calculator is a straightforward web-based calculator built using JavaScript. It provides basic arithmetic operations to help users perform calculations quickly and efficiently.
+The Simple JavaScript Calculator is a straightforward web-based calculator built using JavaScript. It provides basic arithmetic operations to help users perform calculations quickly and efficiently
 [Calculator](https://hossain-masud.github.io/Project-2/)
 
 
