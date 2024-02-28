@@ -1,5 +1,7 @@
+/*Project Idea taken from https://harsh98trivedi.github.io
+Has been Modified to re-use*/
 console.log(
-  "Javascript Calculator Made by Hossain Masud\nhttps://hossain-masud.github.io/Profile/"
+  "Javascript Calculator Made by Harsh Trivedi\nhttps://harsh98trivedi.github.io"
 );
 
 let flag = 0;
@@ -42,13 +44,13 @@ for (item of buttons) {
       } else {
         screen.classList.remove("negative");
       }
-    } else if(buttonText=="(" || buttonText==")") {
-      if(flag==1){
-        flag =0;
+    } else if (buttonText == "(" || buttonText == ")") {
+      if (flag == 1) {
+        flag = 0;
       }
-      screenValue+=buttonText;
-      screen.value=screenValue;
-    } 
+      screenValue += buttonText;
+      screen.value = screenValue;
+    }
     else if (isNumber(buttonText)) {
       if (flag == 1) {
         screenValue = buttonText;
