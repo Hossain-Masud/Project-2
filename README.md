@@ -9,7 +9,7 @@ The Simple JavaScript Calculator is a straightforward web-based calculator built
 [Calculator](https://hossain-masud.github.io/Project-2/)
 
 
-## Usage & Function
+## Usage of Color Function & Answer 
 
 You can access the Simple Calculator by visiting the following link [Change Color](https://hossain-masud.github.io/Project-2/) and you can enjoy to change the color by toggle slide.
 Simply enter your mathematical expressions and use the calculator's features to perform calculations with ease.[![color](https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/color.png)](https://hossain-masud.github.io/Project-2/)
