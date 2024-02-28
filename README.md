@@ -1,5 +1,5 @@
-# Simple Calculator Project.
-[![Simple Javascript Calculator](https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/meta.jpg)](https://hossain-masud.github.io/Project-2/)
+# Simple Calculator Project by HTML,CSS & JavaScript
+[![Simple Calculator](https://github.com/Hossain-Masud/Project-2/blob/main/assets/images/meta.jpg)](https://hossain-masud.github.io/Project-2/)
 
 A simple JavaScript Calculator project-2 made by [Hossain Masud](https://hossain-masud.github.io/Profile/).
 
@@ -15,11 +15,10 @@ Simply enter your mathematical expressions and use the calculator's features to 
 
 ## Contributors
 
-Contributors are always welcome to make contributions to this project and help improve it. If you'd like to contribute or work on available issues, feel free to do so. Let's collaborate and make this calculator even better!
+Contributors are always welcome to make contributions to this project and help improve it. 
 
-## Happy Coding!
+## Tested
 
-We hope you find this Simple JavaScript Calculator useful and enjoy using it for your calculations. If you have any questions or suggestions, please don't hesitate to reach out to [Harsh Trivedi](https://harsh98trivedi.github.io).
+We hope you find this Simple JavaScript Calculator useful and enjoy using it for your calculations. If you have any questions or suggestions, please don't hesitate to reach out to [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fhossain-masud.github.io%2FProject-2%2F).
 
-Happy coding!
 
